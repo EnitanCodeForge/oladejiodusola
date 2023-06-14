@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+#menu-b .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-b .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-y H1 {
+  text-align: right;
+}
+#header1-y P {
+  text-align: right;
+}
+#msg-box4-e .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+  font-size: 46px;
+}
+#msg-box4-e .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-article {
+  color: #ffffff;
+}
+#msg-box3-i .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box3-i .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box3-i .mbr-article P {
+  text-align: center;
+}
+#msg-box3-i .mbr-article H1 {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  color: #ffffff;
+}
+#form1-u .mbr-header__text {
+  text-align: center;
+}
+#footer1-x P {
+  text-align: center;
+  font-size: 14px;
+}
+#footer1-x B {
+  font-size: 14px;
+}
